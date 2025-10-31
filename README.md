@@ -26,8 +26,6 @@ f)Power BI Visual Elements: Cards, bar/column charts, donut/pie charts, 100% sta
 
 g)Custom Color Themes: For a consistent dashboard appearance and improved user experience.
 
-h)Power BI Service: For publishing the dashboard online.
-
 
 
 (3)Dashboard Explanation
