@@ -55,5 +55,5 @@ c)Key visuals
 
 (4)Link to the screenshot of the dashboard
 
-https://github.com/Shreya-678/Metro-Data-Analysis/blob/main/MetroAnalysisSummary.png
+https://github.com/Shreya-678/Metro-Data-Analysis/blob/main/MetroDashboard.png
 
