@@ -20,11 +20,11 @@ Excel: The source of the original survey dataset.
 
 Star Schema Data Modeling: Building a normalized model with fact and dimension tables for efficient analytics.
 
-Power BI Visual Elements: Cards, bar/column charts, donut/pie charts, line charts, 100% stacked charts, slicers, and navigation tabs.
+Power BI Visual Elements: Cards, bar/column charts, donut/pie charts, 100% stacked charts, and slicers.
 
 Custom Color Themes: For a consistent dashboard appearance and improved user experience.
 
-Power BI Service: For sharing or publishing your dashboard online.
+Power BI Service: For publishing the dashboard online.
 
 (3)Dashboard Explanation
 
