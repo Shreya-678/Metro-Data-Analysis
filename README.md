@@ -38,20 +38,18 @@ b)Goal of the dashboard: Provide a unified and interactive BI dashboard that rev
 c)Key visuals 
 
 
-i)Card visual: Used for total responses, average satisfaction, etc, for a quick reference
+   i)Card visual: Used for total responses, average satisfaction, etc, for a quick reference
 
-ii)Bar and Column Charts: Used throughout for comparing counts across categories (e.g., Occupation Breakdown, Top Resident Areas, Primary Transport Mode). Make it easy to see which groups are largest or most active.
+   ii)Bar and Column Charts: Used throughout for comparing counts across categories (e.g., Occupation Breakdown, Top Resident    Areas, Primary Transport Mode). Make it easy to see which groups are largest or most active.
 
-iii)Pie and Donut Charts: Used for showing proportions or shares within a whole, such as the percentage breakdown of categories.
+   iii)Pie and Donut Charts: Used for showing proportions or shares within a whole, such as the percentage breakdown of          categories.
 
-iv)100% Stacked Bar Charts: To show distribution within groups (e.g., Satisfaction by Gender, Gender by Occupation). Allowing the user to compare both totals and proportions side by side.
+   iv)100% Stacked Bar Charts: To show distribution within groups (e.g., Satisfaction by Gender, Gender by Occupation).          Allowing the user to compare both totals and proportions side by side.
 
-v)Interactive Slicers & Filters: Enables users to narrow all visuals according to dimension (Gender, Occupation, Education, Travel Purpose)
+   v)Interactive Slicers & Filters: Enables users to narrow all visuals according to dimension (Gender, Occupation,              Education, Travel Purpose)
 
 
-(d)Business Impact & Insights
-
-The dashboard revealed that while 93.4% of users find the metro convenient, only 74.6% would recommend it, highlighting an 18.8% improvement gap. Pinpointed high-demand areas for feeder and extended services, and showed demographics with the strongest and weakest satisfaction scores, supporting strategic planning by metro operations.
+(d)Business Impact & Insights: The dashboard revealed that while 93.4% of users find the metro convenient, only 74.6% would recommend it, highlighting an 18.8% improvement gap. Pinpointed high-demand areas for feeder and extended services, and showed demographics with the strongest and weakest satisfaction scores, supporting strategic planning by metro operations.
 
 
 
