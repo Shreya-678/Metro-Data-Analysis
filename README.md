@@ -11,7 +11,6 @@ A multi-page dashboard for exploring and understanding how metro passengers expe
 
 
 Power BI Desktop: For dashboard development, report building, and interactive data visualization.
-
 Power Query: For data importing, cleaning, transformation, and ETL workflows within Power BI.
 
 DAX (Data Analysis Expressions): For advanced calculations, custom KPIs, measures, and dynamic analytics.
